@@ -20,7 +20,7 @@ Hello there! I'm Ayush, a passionate Computer Science graduate student with a kn
 <!-- Professional Experience -->
 ## 💼 Professional Experience
 ### LTIMindtree, Pune, India
-*Product Engineer* | *June 2021 - August 2023*
+*Software Developer* | *June 2021 - August 2023*
 - 🚀 Led a team of 3 to design, develop, and deploy a complex Angular-based app.
 - 🌐 Spearheaded State Management (NgRx) to boost application performance.
 - 🛠 Streamlined Angular app with services, interceptors, pipes, and 10+ component enhancements.
