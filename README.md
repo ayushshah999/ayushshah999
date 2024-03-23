@@ -1,61 +1,55 @@
-<!-- Your Name -->
-# 👨‍💻 Ayush Rajesh Shah
+# Ayush Rajesh Shah
 
-<!-- Introduction -->
-Hello there! I'm Ayush, a passionate Computer Science graduate student with a knack for full-stack development and machine learning.
+## Welcome to My GitHub!
 
-<!-- Contact Information -->
-📧 shah.ayush@northeastern.edu | 🌐 [LinkedIn](https://www.linkedin.com/in/ayushrajeshshah/) | 📱 (857)-398-7193
+Hello there! I'm Ayush, a Master of Science in Computer Science candidate at Northeastern University and a passionate software developer with professional experience in building SaaS applications and developing infrastructure solutions.
 
-<!-- Education -->
-## 🎓 Education
+### 🎓 Education
+
 - **Master of Science in Computer Science**
   - *Northeastern University, Boston, MA*
-  - *September 2023 - May 2025*
+  - September 2023 - May 2025 (Expected)
+  - Relevant Courses: Program Design Paradigm, Data Structures, Database Management Systems.
 
 - **Bachelor of Technology in Computer Science**
   - *Vishwakarma Institute of Information Technology, Pune, India*
-  - *August 2017 - May 2021*
+  - August 2017 - May 2021
+  - Relevant Courses: Software Engineering, Data Structures, Operating Systems, Web Development, Computer Networks
 
-<!-- Professional Experience -->
-## 💼 Professional Experience
-### LTIMindtree, Pune, India
-*Software Developer* | *June 2021 - August 2023*
-- 🚀 Led a team of 3 to design, develop, and deploy a complex Angular-based app.
-- 🌐 Spearheaded State Management (NgRx) to boost application performance.
-- 🛠 Streamlined Angular app with services, interceptors, pipes, and 10+ component enhancements.
-- 🗃 Leveraged PostgreSQL for efficient data storage and retrieval, resulting in a 30% surge in client engagement.
-- 🔐 Integrated AES encryption (CryptoJS) for enhanced security.
+### 💼 Professional Experience
 
-### Proost Solutions, Pune, India
-*Full Stack Intern* | *January 2021 - May 2021*
-- 🔄 Revamped a UI page for doctors and patients to optimize appointment scheduling.
-- 📧 Integrated A2P messaging API and implemented Node.js email reminders.
+- **LTIMindtree, Pune, India**
+  - *Software Developer* | June 2021 - August 2023
+  - Developed robust web applications, improved system efficiency and security, and automated routine processes, achieving significant maintenance and performance enhancements.
 
-<!-- Skills -->
-## 🔧 Skills
-- **Programming Languages:** Java, C++, Python, TypeScript, JavaScript, HTML, CSS, PHP, SQL, MongoDB.
-- **Web/Mobile Development:** React, Angular, Redux, Flask, Django.
-- **Framework & Tools:** Docker, Git, JIRA, Selenium, Jenkins.
-- **Cloud Technologies:** AWS, Azure.
+- **Proost Solutions, Pune, India**
+  - *Software Developer* | January 2021 - May 2021
+  - Optimized web applications for healthcare, improving patient engagement and streamlining data management.
 
-<!-- Certifications -->
-## 🏆 Certifications
-- Coursera Python, Coursera Deep Learning, RxJS, Node.js, Restful Webservices with Node.js.
+### 🛠 Skills
 
-<!-- Projects -->
-## 🚀 Projects
-### Car Rental Website (July 2022 - December 2022)
-- 🌐 Developed a full-stack car rental website.
-- 📊 Implemented Database Management Systems (MongoDB) for data retrieval.
+- **Programming Languages:** Python, C/C++, Java, TypeScript, JavaScript, PHP, Node.js
+- **Mobile/Web Technologies:** Angular, ReactJS, Redux, ExpressJS, HTML, CSS, Android Studio, ES6, AJAX, XML, JSON, Gulp
+- **Frameworks & Tools:** Jasmine, Karma, Docker, Git, JIRA, Maven, Selenium, Jenkins, Kubernetes, Django, Flask
+- **Cloud Technologies & Databases:** AWS, AWS SQL Database, SQL, PostgreSQL, MongoDB, SQLite
 
-### Cancer Analysis using Deep Learning (September 2021 - December 2021)
-- 📈 Achieved a 96% improvement in cancer detection rates using VGG 16 model and SVM.
-- 💻 Developed a user-friendly interface for efficient upload of MRI images.
+### 📜 Certifications
 
-### Student Result Analysis (April 2020 - June 2021)
-- 📊 Organized student performance data and computed key performance metrics.
+- Coursera Python, Coursera Deep Learning, RxJS, Node.js, Restful Web Services
 
-<!-- Footer -->
+### 🚀 Projects
+
+- **Stockup** (September 2023 - December 2023): A stock trading platform with live data visualization and real-time market updates.
+- **Pixelprocess** (April 2022 - August 2022): A Java-based image filtering application with dual GUI and CLI modes.
+- **Cancer Analysis using Deep Learning** (September 2021 - December 2021): Implemented machine learning models for improved cancer detection rates and diagnostic accuracy.
+
 ---
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/ayushrajeshshah/](https://www.linkedin.com/in/ayushshah999/)) or via email at shah.ayush@northeastern.edu. Let's code something amazing together! 🚀
+
+### 📬 Get in Touch
+
+- Email: shah.ayush@northeastern.edu
+- [LinkedIn](#your-linkedin-url)
+- [GitHub](#your-github-url)
+- Phone: (857)-398-7193
+
+---
